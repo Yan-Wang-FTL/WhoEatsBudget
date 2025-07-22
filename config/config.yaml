@@ -1,0 +1,6 @@
+defaults:
+  - desc_classifier: openai
+  - _self_
+
+new_statements_folder: new_statements
+saved_statements_filename: saved_statements.feather

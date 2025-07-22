@@ -1,0 +1,2 @@
+class InvalidStmtFile(Exception):
+    pass
